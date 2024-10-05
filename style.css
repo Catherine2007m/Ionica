@@ -179,7 +179,7 @@ section #text {
 .sec {
     position: relative;
     padding: 10%;
-    background: linear-gradient(180deg, #08767a, #064042);
+    background: linear-gradient(180deg, #1790bf, #04222e);
     padding-bottom: 15%;
     z-index: 50;
     overflow: hidden;
