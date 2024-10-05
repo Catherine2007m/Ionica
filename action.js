@@ -67,15 +67,15 @@ links[3].addEventListener("click", () => { openlink(4) });
 
 function openlink(x) {
     if (x == 1) {
-        window.open("https://www.instagram.com/_.vini._02_/", "_blank");
+        window.open("https://www.instagram.com/strawberry_pastel__/", "_blank");
     }
     if (x == 2) {
-        window.open("https://www.linkedin.com/in/vineet-kumar-gupta-2833ab196/", "_blank");
+        window.open("https://md.linkedin.com/in/kateryna-kovalchuk-08789a309", "_blank");
     }
     if (x == 3) {
-        window.open("https://github.com/VineetKumar02", "_blank");
+        window.open("https://github.com/Catherine2007m/", "_blank");
     }
     if (x == 4) {
-        window.open("https://vineet-portfolio-site.netlify.app/", "_blank");
+        window.open("theyarmarok.vercel.app", "_blank");
     }
 }
