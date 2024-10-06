@@ -54,6 +54,7 @@ window.addEventListener('scroll', function () {
     fish2.style.left = (value - fish2move) * 1 + 'px';
     fish3.style.right = (value - fish3move) * 1 + 'px';
     fish4.style.left = (value - fish4move) * 1 + 'px';
+    glass.style.right = (value - 100) * 1 + 'px';
 })
 
 
