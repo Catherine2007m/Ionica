@@ -435,4 +435,16 @@ section #text {
         left: 50%;
         width: 15%;
     }
+
+    .hidden {
+    display: none;
+}
+
+.correct {
+    color: green;
+}
+
+.wrong {
+    color: red;
+}
 }
